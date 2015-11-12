@@ -21,5 +21,6 @@ Collection of AWS Lambda functions(aka. recipes) :)
 ### Others
 1. [Function for converting CSV to SQS throught AWS Lambda](https://gist.github.com/cristianmedeiros/6cf34dcb950b6fd64f9e)
 2. [Function to order alcohol via Drizly](https://gist.github.com/bhberson/ab99c5f53467b9b481c1)
+3. [Function to order pizza via Dominos](https://gist.github.com/bhberson/7a2847888596e67fd69b)
 
 
